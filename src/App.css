@@ -1,0 +1,56 @@
+.todo-container {
+  text-align: center;
+  display: grid;
+  justify-content: center;
+  padding: 30px;
+}
+
+h1 {
+  padding: 8px;
+}
+
+li {
+  display: flex;
+  align-items: start;
+  justify-content: space-between;
+  text-align: start;
+  padding: 4px;
+  font-size: 16px;
+}
+
+ul {
+  padding: 20px 36px;
+  max-width: 720px;
+}
+
+button {
+  padding: 4px 12px;
+  margin: 2px;
+}
+
+button:hover {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.24), 0 17px 50px 0 rgba(0, 0, 0, 0.19);
+  cursor: pointer;
+}
+
+input {
+  padding: 4px 8px;
+}
+
+.testing-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: start;
+}
+
+.buttons-container {
+  display: flex;
+  padding-left: 10px;
+}
+
+.editing-container {
+  display: flex;
+  align-items: start;
+  justify-content: space-between;
+  padding: 4px;
+}
