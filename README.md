@@ -7,7 +7,7 @@ Combined reducers and context together to manage state of the screen.
 ![Todo app image preview](Previews/react_todo.png)
 
 ### Gif
-<img src="Previews/react_todo.gif" width="300" height="400 />
+<img src="Previews/react_todo.gif" width="350">
 
 ### Vide
 ![Todo app video preview](Previews/react_todo.mov)
