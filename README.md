@@ -10,7 +10,8 @@ Combined reducers and context together to manage state of the screen.
 <img src="Previews/react_todo.gif" alt="Todo app preview as a gif">
 
 ### Video
-![Todo app preview as a video](Previews/react_todo.mov)
+<video src="Previews/react_todo.mov" controls="controls" style="max-width: 730px;">
+</video>
 
 # React + Vite
 
