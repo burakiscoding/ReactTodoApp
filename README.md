@@ -4,13 +4,13 @@ Combined reducers and context together to manage state of the screen.
 ## Previews
 
 ### Image
-![Todo app image preview](Previews/react_todo.png)
+<img src="Previews/react_todo.png" alt="Todo app preview as an image">
 
 ### Gif
-<img src="Previews/react_todo.gif">
+<img src="Previews/react_todo.gif" alt="Todo app preview as a gif">
 
-### Vide
-![Todo app video preview](Previews/react_todo.mov)
+### Video
+![Todo app preview as a video](Previews/react_todo.mov)
 
 # React + Vite
 
